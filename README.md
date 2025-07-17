@@ -15,6 +15,7 @@ Desarrollado con **WordPress**, este sitio sirve como una plataforma para mis ar
 
 * WordPress
 * Tema Blocksy
+* Stackable (Plugin de bloques para Gutenberg)
 * CSS3 (para personalizaciones específicas)
 
 ---
