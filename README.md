@@ -21,14 +21,17 @@ Desarrollado con **WordPress**, este sitio sirve como una plataforma para mis ar
 
 ### Visita el Blog Online:
 
-Puedes ver el blog funcionando en vivo aquí: [https://bienestarevolutivo.org/](https://bienestarevolutivo.org/)
+Podes ver el blog funcionando en vivo acá: [https://bienestarevolutivo.org/](https://bienestarevolutivo.org/)
 
 ---
 
 ### Lo que aprendí y destaqué en este proyecto:
 
 * Administración completa de un sitio web con WordPress, desde la instalación hasta el mantenimiento.
-* Optimización de la velocidad y el rendimiento del sitio (si aplicaste algo, podés mencionarlo).
+* Optimización del sitio en si mismo como actualizaciones de:
+    * plugins.
+    * Versiòn de Wordpress y de PHP.
+    * Temas.
 * Personalización avanzada de temas de WordPress mediante CSS para lograr un diseño único.
 * Desarrollo de contenido estratégico para atraer y retener audiencia.
 
@@ -36,4 +39,4 @@ Puedes ver el blog funcionando en vivo aquí: [https://bienestarevolutivo.org/](
 
 ### Capturas de Pantalla (Opcional):
 
-*(Si quieres agregar capturas de pantalla, el proceso es el mismo que para el sitio de la cafetería: crea una carpeta `images/`, sube tus capturas ahí, y luego pon un link a esa carpeta o las insertas directamente. Por ahora, si quieres, puedes dejar esta sección vacía o con una nota como en el ejemplo del sitio de la cafetería).*
+Podes ver las capturas acá: [Ver capturas de pantalla](https://github.com/maroci1/bienestarevolutivo-blog/tree/main/images)
