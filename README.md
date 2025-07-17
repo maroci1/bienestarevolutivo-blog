@@ -8,6 +8,7 @@ Desarrollado con **WordPress**, este sitio sirve como una plataforma para mis ar
 * **Diseño y Experiencia de Usuario (UX)**: Aplicación de principios de diseño para una lectura agradable y navegación intuitiva.
 * **CSS personalizado**: Implementación de código CSS adicional para ajustes estéticos y de responsividad, asegurando una visualización óptima en diferentes dispositivos.
 * **Creación de Contenido**: Habilidad para estructurar y presentar información de manera clara y atractiva.
+* **Seo**: Configuracion para posicionamiento en motores de busqueda usando Yoast SEO.
 
 ---
 
@@ -16,6 +17,7 @@ Desarrollado con **WordPress**, este sitio sirve como una plataforma para mis ar
 * WordPress
 * Tema Blocksy
 * Stackable (Plugin de bloques para Gutenberg)
+* Yoast SEO (Optimización para motores de búsqueda)
 * CSS3 (para personalizaciones específicas)
 
 ---
