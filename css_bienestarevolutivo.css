@@ -1,0 +1,42 @@
+/* Asegura que todas las columnas tengan la misma altura dentro de su contenedor Flex */
+.stk-row.stk-inner-blocks {
+    align-items: stretch; /* Esto hace que los hijos (las columnas) se estiren para ocupar la altura completa del padre */
+}
+
+/* Dentro de cada columna, empuja el icono hacia abajo para que se alinee con los demás */
+.wp-block-stackable-column { 
+    display: flex; /* Ya está flex, pero lo ponemos para claridad */
+    flex-direction: column; /* Ya está column, pero lo ponemos para claridad */
+    justify-content: space-between; /* Distribuye el espacio: título arriba, texto en medio, icono abajo */
+    
+}
+
+
+
+/*cambia el color del panel del menu en movil y el tamaño*/
+
+@media screen and (max-width: 550px) {
+    [data-header*="type-1"] #offcanvas .ct-panel-inner {
+        background-color: #42C0D2;
+			--side-panel-width: 51vw;
+			}
+
+/*cambia el color del panel del menu en movil y el tamaño*/
+ 
+}
+	
+@media screen and (min-width:551px) and (max-width: 999px) {
+    [data-header*="type-1"] #offcanvas .ct-panel-inner {
+        background-color: #42C0D2;
+			--side-panel-width: 40vw;
+			}
+ 
+}
+
+@media screen and (max-width: 999px) {
+    /* Ajusta el fondo del panel del menú móvil (off-canvas) para que no sea blanco sólido */
+    #offcanvas.ct-panel.ct-header.active { /* Selector específico del panel activo */
+        background-color: rgba(0, 0, 0, 0.5) !important; /* Negro semi-transparente (ajusta la transparencia 0-1) */
+        
+    }
+}
