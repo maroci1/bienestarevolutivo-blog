@@ -41,7 +41,7 @@ Podes ver el blog funcionando en vivo acá: [https://bienestarevolutivo.org/](ht
 ---
 
 ### Código CSS Personalizado:
-Podes revisar el código CSS que utilicé para las personalizaciones aquí: [css](https://github.com/maroci1/bienestarevolutivo-blog/blob/main/css_bienestarevolutivo.css)
+Podes revisar el código CSS que utilicé para las personalizaciones acá: [css](https://github.com/maroci1/bienestarevolutivo-blog/blob/main/css_bienestarevolutivo.css)
 
 ---
 ### Capturas de Pantalla (Opcional):
