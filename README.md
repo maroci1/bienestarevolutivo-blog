@@ -40,7 +40,8 @@ Podes ver el blog funcionando en vivo acá: [https://bienestarevolutivo.org/](ht
 
 ---
 
-### Archivo de CSS: [css]
+### Código CSS Personalizado:
+Podes revisar el código CSS que utilicé para las personalizaciones aquí: [css]
 
 ---
 ### Capturas de Pantalla (Opcional):
